@@ -1,6 +1,6 @@
 # Fooocus & Juggernaut XL: AI Image Generation Powerhouse
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>/blob/main/Fooocus_Juggernaut_Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ka765IfuRXPDjFkHkMIz90cdd6wQGWLJ#scrollTo=QLZb3UQuV59v) 
 
 This repository provides a Google Colab notebook and setup instructions for generating high-quality images using [Fooocus](https://github.com/lllyasviel/Fooocus) with the powerful [Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl) model. Generate stunning visuals with intuitive controls, suitable for artists, designers, and AI enthusiasts.
 

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large model files - users should download these separately!
+# Add specific model file extensions if you want to be extra safe,
+# though the primary instruction is to not commit them.
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Datasets or large media files
+*.zip
+*.tar.gz
+*.jpg
+*.png # (Unless they are part of the documentation/examples in README)
