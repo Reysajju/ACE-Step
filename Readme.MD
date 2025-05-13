@@ -1,7 +1,7 @@
 # ACE-Step: AI Music Generation Powerhouse in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>/blob/main/ACE_Step_Colab_Runner.ipynb)
-*(Please replace `<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>/blob/main/ACE_Step_Colab_Runner.ipynb` with the actual link to your Colab notebook if you create one in your repository. Otherwise, users can copy the commands below into a new Colab notebook.)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ka765IfuRXPDjFkHkMIz90cdd6wQGWLJ#scrollTo=QLZb3UQuV59v)
+*(Please replace `github.com/Reysajju/ACE-Step/blob/main/ACE-Step-Music-Generation.ipynb` with the actual link to your Colab notebook if you create one in your repository. Otherwise, users can copy the commands below into a new Colab notebook.)*
 
 This repository provides guidance and commands for running the [ACE-Step](https://github.com/ace-step/ACE-Step) model to generate high-quality music using Google Colab. ACE-Step is a novel open-source foundation model for music generation.
 
